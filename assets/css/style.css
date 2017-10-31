@@ -1,0 +1,14 @@
+i.fa.off.tj-favorite {
+    color: #555 !important;
+}
+i.fa.on.tj-favorite {
+    color: #EA1D23 !important;
+}
+i.fa.tj-favorite {
+    margin-right: 3px !important;
+    cursor: pointer !important;
+}
+.loading-favorite {
+    visibility: hidden;
+    margin-right: 3px !important;
+}
